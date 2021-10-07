@@ -1,0 +1,16 @@
+body{
+    background-color: #f09838;
+    color: #a03028;
+}
+table{
+    width: 800px;
+    background-color: #ffecc0;
+}
+#bal{
+    width: 150px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: large;
+}
