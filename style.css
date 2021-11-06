@@ -1,4 +1,8 @@
-.info 
-    {
-    }
-
+.info {
+    background-color:#fafad2;
+    border: 10px;
+}
+a{
+    color: black;
+    font-size: large;
+}
