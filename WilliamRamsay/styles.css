@@ -1,0 +1,58 @@
+body {
+  background-size: cover;
+  background-image: chem_back.jpg;
+}
+
+p {
+  margin: 5px;
+  text-indent: 15px;
+  line-height: 140%;
+  text-align: justify;
+}
+
+#tartalom {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.55);
+  border-radius: 30px;
+  width: 60%;
+  padding: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: white;
+}
+
+h1 {
+  font-style: italic;
+}
+
+table {
+  width: 50%;
+  margin: auto;
+}
+
+span{
+  font-size: large;
+  color: red;
+}
+
+img{
+  text-align: left;
+  width: 200px;
+  margin-right: 20px;
+}
+
+td{
+  border-bottom: 1px;
+  margin-inline: 10px;
+}
+
+thead{
+  background-color: gray;
+}
+
+ul{
+  list-style-image: chem_icon.png;
+}
