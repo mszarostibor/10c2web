@@ -1,8 +1,12 @@
-.info {
-    background-color:#fafad2;
-    border: 10px;
+h1 {
+    text-shadow: 2px 2px brown;
 }
+
+h5 {
+    font-weight: normal;
+}
+
 a{
-    color: black;
     font-size: large;
+    text-decoration-line: underline;
 }
